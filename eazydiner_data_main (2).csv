@@ -1,0 +1,701 @@
+Category,restuaurants,rating,location_data,food_price,offer_data,food_item
+lunch,The Ofen,5.0,Banjara Hills,2000,45% Off,"Mexican, Italian, Beverages"
+lunch,Forefathers,4.5,Jubilee Hills,1500,25% Off,Multicuisine
+lunch,Tevar - The Progressive Indian Kitchen & Bar,4.1,Hitech City,4000,25% Off,Modern Indian
+lunch,One8 Commune,4.7,Hitech City,2500,25% Off,Multicuisine
+lunch,Aster Cafe & Kitchen,4.0,Banjara Hills,1000,40% Off,Multicuisine
+lunch,Golconda Pavilion,4.4,ITC Kohenur,2500,25% Off,"Chinese, Desserts, Multicuisine, Continental, Finger Food, North Indian"
+lunch,Fuel Cafe,4.0,Banjara Hills,800,40% Off,Cafe
+lunch,Pizza Zone,4.0,Habsiguda,1000,25% Off,Multicuisine
+lunch,7 Sisters,4.4,Banjara Hills,700,50% Off,North Eastern
+lunch,Vasaara,4.0,Banjara Hills,1000,40% Off,"European, South Indian"
+lunch,Hibacci,4.4,Banjara Hills,1250,40% Off,"Chinese, North Eastern, Pan Asian, Asian"
+lunch,Blu Café Lounge,4.3,Radisson Blu Plaza Hotel,900,55% Off,"Cafe, Bakery"
+lunch,Habitat Cafe,4.7,Banjara Hills,1200,35% Off,Multicuisine
+lunch,Mazuri Cafe,4.0,Banjara Hills,1000,55% Off,"European, Multicuisine"
+lunch,Tabla,4.2,Banjara Hills,1333,45% Off,Multicuisine
+lunch,Imli Sarai,4.0,Banjara Hills,1800,45% Off,European
+lunch,A'La Liberty,4.3,Banjara Hills,1300,35% Off,"Indian, European"
+lunch,Hummus House,5.0,Banjara Hills,1100,35% Off,Mediterranean
+lunch,The Octagon Cafe,4.0,Banjara Hills,1600,35% Off,European
+lunch,Pakka Local,4.2,Banjara Hills,1200,25% Off,Multicuisine
+lunch,Moyaaah!,4.0,Banjara Hills,700,50% Off,"Fast Food, European"
+lunch,Chill and Terrace ,3.9,Radisson Blu Plaza Hotel,1500,60% Off,"European, Indian"
+lunch,Mezbaan Kitchen,5.0,Banjara Hills,800,45% Off,Indian
+lunch,La Pino'z Pizza,5.0,Banjara Hills,400,35% Off,"Italian, Pizza"
+lunch,Namchi - Fusion Of Taste Buds,4.2,Banjara Hills,1000,45% Off,Indian
+lunch,Ohri's Cake Nation,1.0,Banjara Hills,800,35% Off,Bakery
+lunch,Lemerian Workin Cafe,4.0,Banjara Hills,800,35% Off,Multicuisine
+lunch,Wow! China Bistro,1.0,Banjara Hills,600,25% Off,Chinese
+lunch,Kasuall,3.7,Somajiguda,1200,75% Off,Multicuisine
+lunch,Bourbon & Breeze,4.3,Banjara Hills,1500,75% Off,Multicuisine
+lunch,Bar 41 ,1 4,Radisson Blu Plaza Hotel,2000,60% Off,"Finger Food, Cocktail Menu"
+lunch,Harry's The Pub,4.8,Aditya Park,1400,50% Off,"Finger Food, Cocktail Menu"
+lunch,ZYTHUM Brewing Co.,4.4,Jubilee Hills,2500,50% Off,Multicuisine
+lunch,Aqua ,4.4,The Park,2500,55% Off,"Cocktail Menu, Finger Food"
+lunch,By The Bay,4.1,Necklace Road,1200,35% Off,"Cocktail Menu, Multicuisine"
+lunch,Masala Republic by Dadu's,4.5,Banjara Hills,1100,55% Off,Multicuisine
+lunch,Verandah ,4.5,The Park,2500,35% Off,Multicuisine
+lunch,Zanzi Bar,5.0,The Golkonda Hotel,1900,50% Off,"Finger Food, Cocktail Menu"
+lunch,Tolly Junction Rest O Bar,4.0,Banjara Hills,1000,50% Off,Multicuisine
+lunch,TOS Club & Lounge,4.0,Banjara Hills,1000,50% Off,Multicuisine
+lunch,Medley,4.6,Jubilee Hills,1000,45% Off,Multicuisine
+lunch,24/7 Gallery Café,4.7,Hyatt Place Hyderabad Banjara Hills,1500,45% Off,Multicuisine
+lunch,The Dining Room,4.1,Park Hyatt,3500,40% Off,Multicuisine
+lunch,Rium Cafe,2.0,Banjara Hills,1200,75% Off,"Continental, Chinese"
+lunch,Kabul Darbar,3.9,Tolichowki,1000,40% Off,"Arabian, Afghani"
+lunch,The Gallery Cafe,5.0,Banjara Hills,900,40% Off,Continental
+lunch,10 Biryanis,5.0,Jubilee Hills,1200,55% Off,"North Indian, Mughlai"
+lunch,Barbeque Nation,4.5,Banjara Hills,2000,25% Off,"Multicuisine, Barbeque"
+lunch,Melange ,4.0,The Golkonda Hotel,2200,45% Off,Multicuisine
+lunch,Seventh Heaven,4.3,Panjagutta,1500,35% Off,Multicuisine
+lunch,The Fifth Street,4.0,Jubilee Hills,1000,40% Off,Multicuisine
+lunch,Mandi King Elite Arabian Restaurant,5.0,Tolichowki,1000,35% Off,Arabian
+lunch,MoMo Cafe,3.8,Courtyard By Marriott,2000,55% Off,Multicuisine
+lunch,The Sicca Bar,1.0,The Park,1800,55% Off,"Cocktail Menu, Finger Food"
+lunch,Zouq ,3.9,Banjara Hills,600,35% Off,Turkish
+lunch,FEU - Dessert Bar & Kitchen,5.0,Jubilee Hills,1400,35% Off,Multicuisine
+lunch,MOB - Belgium Beer House,4.0,Film Nagar,1500,35% Off,Multicuisine
+lunch,Garage Moto Cafe,4.0,Jubilee Hills,800,35% Off,Multicuisine
+lunch,The Palm Banjara,3.2,Jubilee Hills,800,35% Off,Multicuisine
+lunch,The Terrace,5.0,Mercure Hyderabad KCP,1800,40% Off,Multicuisine
+lunch,Wow! Momo,1.0,Ameerpet,400,40% Off,Momos
+lunch,Miami Galley Cafe,5.0,Somajiguda,1000,50% Off,Multicuisine
+lunch,AB's - Absolute Barbecues,4.5,Banjara Hills,1850,25% Off,"Multicuisine, Barbeque"
+lunch,Urban Nemo Cafe In Garden,4.8,Jubilee Hills,800,25% Off,Multicuisine
+lunch,Dakshin Haveli,4.0,Banjara Hills,400,50% Off,South Indian
+lunch,Fly - Feel The High,5.0,Jubilee Hills,1400,45% Off,"Cocktail Menu, Multicuisine"
+lunch,Telugu Table,3.8,Jubilee Hills,700,45% Off,South Indian
+lunch,Sync Resto Bar,4.8,Best Western Ashoka,1300,40% Off,Indian
+lunch,Navika Cafe,4.5,Jubilee Hills,1200,40% Off,"Chinese, Continental"
+lunch,Hoist | Bar & Kitchen,4.0,Banjara Hills,1600,40% Off,Multicuisine
+lunch,Krispy Kreme,4.0,Banjara Hills,350,40% Off,Desserts
+lunch,Cups N Plates,4.6,Lakdikapul,900,35% Off,Fast Food
+lunch,Chili's American Grill & Bar,3.5,Madhapur,1500,40% Off,Tex-Mex
+lunch,The Bedford BakeHouse & TeaRoom,4.5,Banjara Hills,1100,35% Off,"Italian, European, Bakery"
+lunch,Esthio,4.1,Somajiguda,1150,35% Off,Italian
+lunch,Params Kitchen & Cafe,4.0,Ameerpet,600,35% Off,Multicuisine
+lunch,Banjara9 Multi Cuisine Restaurant,4.0,Khairatabad,1000,35% Off,Multicuisine
+lunch,Deccan Cafe Restaurant ,4.0,Park Continental,800,35% Off,Indian
+lunch,Chandra Haveli,3.0,Jubilee Hills,800,40% Off,Multicuisine
+lunch,Bharpur Multicusine Family Restaurant,4.0,Punjagutta,1000,35% Off,Multicuisine
+lunch,Moonlight Bar,2.7,Best Western Ashoka,1200,40% Off,Finger Food
+lunch,Arabian Nights Mandi Restaurant,3.5,Ameerpet,600,35% Off,Multicuisine
+lunch,Marco Polo Bar,4.3,ITC Kakatiya,2700,25% Off,Finger Food
+lunch,Golden Pavilion,3.3,Banjara Hills,1500,35% Off,Multicuisine
+lunch,Candy cloud factory,4.0,Banjara Hills,300,25% Off,"Beverages, Fast Food, Desserts"
+lunch,Kritunga The Palegars Cuisine,3.0,Somajiguda,1200,35% Off,Multicuisine
+lunch,Paradise Biryani - A Legend since 1953,3.3,Khairatabad,800,35% Off,Biryani
+lunch,Hyderabad Mandi Restaurant ,4.0,Yousufguda,450,25% Off,Multicuisine
+lunch,ZING - Sky Bar + Lounge,4.1,Hyatt Place Hyderabad Banjara Hills,1500,25% Off,Multicuisine
+lunch,Onesta,4.0,Banjara Hills,600,25% Off,Italian
+lunch,Jolly Bros and Co.,5.0,Banjara Hills,1500,25% Off,"Finger Food, Cocktail Menu"
+lunch,Post Card Global Tapas Bar,4.6,Madhapur,1400,55% Off,Tapas
+lunch,Insomnia,4.0,Jubilee Hills,1500,45% Off,"Finger Food, Cocktail Menu"
+lunch,Stone Waters - Kitchen & Lounge,4.6,Jubilee Hills,1300,45% Off,"Cocktail Menu, Multicuisine"
+lunch,Connect,1.0,Jubilee Hills,1200,40% Off,Multicuisine
+lunch,The Library Bar,4.0,The Leela Hyderabad,3500,25% Off,"Finger Food, Cocktail Menu"
+lunch,Ping's Café Orient,4.0,Banjara Hills,1800,25% Off,Pan Asian
+lunch,Saz Pizzeria,4.0,Banjara Hills,1000,25% Off,European
+lunch,Tiga,4.0,The Leela Hyderabad,3500,25% Off,Pan Asian
+lunch,Chika A Coffee Collective,4.0,Banjara Hills,1000,25% Off,"European, South Indian"
+lunch,Bel Posto The Cafe,4.5,Jubilee Hills,800,55% Off,Multicuisine
+lunch,Okra,3.8,Hyderabad Marriott Hotel & Convention Centre,2500,55% Off,Multicuisine
+lunch,Punjab Grill,3.4,Kondapur,1100,55% Off,North Indian
+lunch,Pause Lounge Bar,2.7,Hitech City,2100,75% Off,"Finger Food, Cocktail Menu"
+lunch,Platform 65,3.4,Kondapur,800,50% Off,Multicuisine
+lunch,Mairu Bistro & Cafe,4.5,Jubilee Hills,1000,75% Off,Cafe
+lunch,Promenade,4.1,Aditya Park,1000,50% Off,Multicuisine
+lunch,Fusion 9,3.6,Hitech City,1800,55% Off,Multicuisine
+lunch,Spice It ,3.2,Ibis Hotel,1400,75% Off,Indian
+lunch,Frosty Den,4.0,Amberpet,500,55% Off,"Fast Food, Desserts"
+lunch,Taco Bell,1.0,Panjagutta,550,25% Off,"Mexican, Tex-Mex"
+lunch,Black Pearl ,4.0,Hotel Central Park,800,55% Off,Multicuisine
+lunch,La Milano Pizzeria,5.0,Himayath Nagar,600,50% Off,Italian
+lunch,Altitude,4.8,Hyderabad Marriott Hotel & Convention Centre,1800,55% Off,"Finger Food, Cocktail Menu"
+lunch,YouMee ,4.5,Kukatpally,1500,50% Off,"Pan Asian, Asian"
+lunch,TGI Friday's,4.2,Kukatpally,2500,50% Off,Multicuisine
+lunch,En Lukx Lounge And Sky Bar,4.5,Madhapur,1200,65% Off,Multicuisine
+lunch,Heart Cup Coffee,4.7,Kompally,2000,55% Off,Multicuisine
+lunch,Rebel & Rye Bar & Kitchen,4.0,Film Nagar,1600,65% Off,Multicuisine
+lunch,Wild Rovers Sky Bar & Lounge,4.4,Gachibowli,1400,50% Off,Finger Food
+lunch,Sounds & Spirits,3.6,Jubilee Hills,1200,60% Off,"Finger Food, Cocktail Menu"
+lunch,Cafe Noir,1.0,Begumpet,900,45% Off,"European, French"
+lunch,Flechazo Gold,3.8,Madhapur,1800,55% Off,Multicuisine
+lunch,Aroma Multi Cuisine Restaurant,3.9,Gachibowli,1200,60% Off,Multicuisine
+lunch,Masala Republic by Dadu's,4.5,Himayath Nagar,1100,55% Off,Multicuisine
+lunch,Buffalo Wild Wings,4.5,Gachibowli,2000,35% Off,American
+lunch,MK Warehouse,4.0,Jubilee Hills,1200,75% Off,Multicuisine
+lunch,Daily Rituals,3.8,Jubilee Hills,1300,45% Off,Multicuisine
+lunch,Tabla Restaurant,4.6,Kukatpally,1000,45% Off,Multicuisine
+lunch,TARO - Pan Asian Restaurant & Bar,5.0,Jubilee Hills,2200,35% Off,Pan Asian
+lunch,Amnesia Lounge Bar,4.0,Jubilee Hills,1500,45% Off,"Cocktail Menu, Multicuisine"
+lunch,Hotel Kass,5.0,Hotel Kass,1200,40% Off,Multicuisine
+lunch,Kritunga - The Palegar's Cuisine,4.0,Kondapur,900,50% Off,"Chinese, Indian"
+lunch,Diablo Cocktail Bar & Kitchen,5.0,Jubilee Hills,2000,40% Off,Mediterranean
+lunch,Ming Ustad,4.6,Hitech City,1500,50% Off,"Chinese, Indian"
+lunch,Scotchman,4.0,Royalton Hotel,1000,50% Off,Multicuisine
+lunch,The Sanctuary Bar and Kitchen,4.4,Jubilee Hills,2000,45% Off,"Continental, South Indian, North Indian, Italian"
+lunch,Pavilion,3.8,The Peerless Inn,800,50% Off,Multicuisine
+lunch,Tamm Jham,4.0,Jubilee Hills,1200,65% Off,Multicuisine
+lunch,Native Katha,2.7,Madhapur,600,55% Off,Multicuisine
+lunch,Tree House	,3.7,L B Nagar,800,40% Off,Multicuisine
+lunch,MoXa Kitchen,4.2,Jubilee Hills,1300,60% Off,Multicuisine
+lunch,Good Vibes Only Cafe,4.4,Manikonda,1000,35% Off,"Fast Food, Italian"
+lunch,Mamalola Penthouse,4.4,Nanakramguda,1500,50% Off,Multicuisine
+lunch,Taqila - The Club & Lounge,4.1,Bachupally,1600,50% Off,Multicuisine
+lunch,Thrivesome,5.0,Jubilee Hills,800,45% Off,European
+lunch,Terra Cafe,3.3,Jubilee Hills,1100,45% Off,Multicuisine
+lunch,Tamasha - Restro Cafe,4.2,Jubilee Hills,800,55% Off,"Korean, Thai, Asian, Continental"
+lunch,Kritaa Nagar,4.2,Financial District,1400,55% Off,Indian
+lunch,Masala Republic by Dadu's,3.5,Gachibowli,1100,55% Off,Multicuisine
+lunch,Plan B,4.5,Begumpet,1000,40% Off,Multicuisine
+lunch,Vanam Fine Dine,3.5,Madhapur,800,55% Off,South Indian
+lunch,Harley's Fine Baking,5.0,Nanakramguda,600,35% Off,"Bakery, Desserts"
+lunch,KNOX Club & Kitchen.,4.0,Jubilee Hills,1500,55% Off,Multicuisine
+lunch,Tiger Lily ,4.0,Jubilee Hills,2400,35% Off,"European, Pan Asian"
+lunch,Destination Cafe,4.0,Kukatpally,700,55% Off,Italian
+lunch,Red Rhino Craft Brewery and Inspired Kitchen,4.3,Hitech City,2000,35% Off,Multicuisine
+lunch,Lakshmi's United Kitchen,4.0,Madhapur,1000,50% Off,Multicuisine
+lunch,Renao Cafe & Bistro,4.0,Madhapur,1200,45% Off,Multicuisine
+lunch,Abids Bistro ,4.3,Royalton Hotel,1200,55% Off,Multicuisine
+lunch,The Glass House,4.3,Jubilee Hills,1500,50% Off,Progressive Indian Cuisine
+lunch,Vivaha Bhojnambu,2.9,Secunderabad,1400,50% Off,"Andhra, South Indian"
+lunch,Cuisinekraft,4.3,Gachibowli,1000,45% Off,Multicuisine
+lunch,Zyng ,4.4,Radisson Hyderabad Hitec City,2000,45% Off,Multicuisine
+lunch,PA PA YA,5.0,Jubilee Hills,2000,45% Off,Asian
+lunch,Sesame - Asian & Himalayan Cuisine,4.7,Gachibowli,1200,45% Off,"Chinese, Desserts, Japanese, Pan Asian, Asian, Himalyan"
+lunch,Chama Gaucha,4.1,Radisson Hyderabad Hitec City,2200,45% Off,Multicuisine
+lunch,Amnesia Sky Bar,3.8,Hitech City,1500,40% Off,Multicuisine
+lunch,Marley's Joint,3.6,Secunderabad,700,35% Off,Fast Food
+lunch,Ichata kitchen And Bar,5.0,Jubilee Hills,1200,45% Off,"Cocktail Menu, South Indian"
+lunch,The Dome Cafe,4.8,Gachibowli,600,45% Off,Multicuisine
+lunch,Lord Of The Drinks,3.8,Jubilee Hills,1800,45% Off,Multicuisine
+lunch,Vivaha Bhojnambu,4.3,Secunderabad,1400,35% Off,"South Indian, Andhra"
+lunch,e'woke - The Vegan Cafe,4.6,Secunderabad,800,35% Off,"Healthy Food, Vegan"
+lunch,Raise The Bar,3.7,Gachibowli,2000,65% Off,Multicuisine
+lunch,President Dhaba,3.9,Madhapur,800,40% Off,"Chinese, North Indian"
+lunch,The Lal Street - Bar Exchange,3.6,Gachibowli,1200,35% Off,Multicuisine
+lunch,Turquoise,4.3,Le Méridien Hyderabad,1900,55% Off,"European, Indian"
+lunch,Thinespo,4.5,Kompally,1200,35% Off,"Multicuisine, Italian"
+lunch,Raja Bhojanam - An Authentic Telugu Restaurant,4.0,Gachibowli,1000,45% Off,Indian
+dinner,Exotica,5.0,Banjara Hills,2000,45% Off,Multicuisine
+dinner,The Ofen,4.4,ITC Kohenur,2500,25% Off,"Mexican, Italian, Beverages"
+dinner,63 Degree Modern Regional Buffet,4.0,Banjara Hills,1000,40% Off,Regional Indian
+dinner,Forefathers,4.0,Habsiguda,1000,25% Off,Multicuisine
+dinner,Golconda Pavilion,4.4,Banjara Hills,700,50% Off,"Chinese, Desserts, Multicuisine, Continental, Finger Food, North Indian"
+dinner,Aster Cafe & Kitchen,4.4,Banjara Hills,1250,40% Off,Multicuisine
+dinner,Tevar - The Progressive Indian Kitchen & Bar,4.0,Banjara Hills,1000,40% Off,Modern Indian
+dinner,Pizza Zone,4.3,Radisson Blu Plaza Hotel,900,55% Off,Multicuisine
+dinner,Fuel Cafe,4.0,Banjara Hills,1000,55% Off,Cafe
+dinner,7 Sisters,4.2,Banjara Hills,1333,45% Off,North Eastern
+dinner,Holy Basil,4.0,Banjara Hills,1800,45% Off,Pan Asian
+dinner,Vasaara,4.2,Banjara Hills,1200,25% Off,"European, South Indian"
+dinner,Ohri's Eatmor,5.0,Banjara Hills,1100,35% Off,Multicuisine
+dinner,Hummus House,4.7,Banjara Hills,1200,35% Off,Mediterranean
+dinner,Hibacci,4.0,Banjara Hills,1600,35% Off,"Chinese, North Eastern, Pan Asian, Asian"
+dinner,A'La Liberty,5.0,Banjara Hills,800,45% Off,"Indian, European"
+dinner,Habitat Cafe,5.0,Banjara Hills,400,35% Off,Multicuisine
+dinner,Blu Café Lounge,4.0,Banjara Hills,700,25% Off,"Cafe, Bakery"
+dinner,Mazuri Cafe,4.2,Banjara Hills,1000,45% Off,"European, Multicuisine"
+dinner,Lemerian Workin Cafe,4.0,Banjara Hills,800,35% Off,Multicuisine
+dinner,Mezbaan Kitchen,1.0,Banjara Hills,600,25% Off,Indian
+dinner,Tabla,4.8,Aditya Park,1400,50% Off,Multicuisine
+dinner,Chill and Terrace ,3.7,Somajiguda,1200,75% Off,"European, Indian"
+dinner,Imli Sarai,4.0,The Golkonda Hotel,2200,45% Off,European
+dinner,The Octagon Cafe,4.5,The Park,2500,35% Off,European
+dinner,Namchi - Fusion Of Taste Buds,5.0,The Golkonda Hotel,1900,50% Off,Indian
+dinner,La Pino'z Pizza,4.0,Banjara Hills,1000,50% Off,"Italian, Pizza"
+dinner,Pakka Local,4.0,Banjara Hills,1000,50% Off,Multicuisine
+dinner,Moyaaah!,4.6,Jubilee Hills,1000,45% Off,"Fast Food, European"
+dinner,Ohri's Cake Nation,4.7,Hyatt Place Hyderabad Banjara Hills,1500,45% Off,Bakery
+dinner,Bourbon & Breeze,4.1,Park Hyatt,3500,40% Off,Multicuisine
+dinner,Wow! China Bistro,4.5,Banjara Hills,1100,40% Off,Chinese
+dinner,Zanzi Bar,5.0,Jubilee Hills,1200,55% Off,"Finger Food, Cocktail Menu"
+dinner,Harry's The Pub,4.0,Ameerpet,800,55% Off,"Finger Food, Cocktail Menu"
+dinner,ZYTHUM Brewing Co.,5.0,Jubilee Hills,1000,50% Off,Multicuisine
+dinner,Medley,3.8,Courtyard By Marriott,2000,55% Off,Multicuisine
+dinner,Rasa by Ashoka,4.0,Jubilee Hills,800,35% Off,Indian
+dinner,Aqua ,2.0,Banjara Hills,1200,75% Off,"Cocktail Menu, Finger Food"
+dinner,Bar 41 ,1.0,Ameerpet,400,40% Off,"Finger Food, Cocktail Menu"
+dinner,Kasuall,3.9,ITC Kakatiya,2600,55% Off,Multicuisine
+dinner,The Dining Room,4.5,Banjara Hills,1850,25% Off,Multicuisine
+dinner,Verandah ,4.5,Jubilee Hills,800,55% Off,Multicuisine
+dinner,Kuchipudi,4.0,Banjara Hills,400,50% Off,South Indian
+dinner,Aish,5.0,Banjara Hills,900,40% Off,"Indian, South Indian"
+dinner,"Tre forni, Italian Restaurant & Bar",4.5,Jubilee Hills,1200,40% Off,Italian
+dinner,Kabul Darbar,4.0,Banjara Hills,350,40% Off,"Arabian, Afghani"
+dinner,Tolly Junction Rest O Bar,5.0,Jubilee Hills,1400,35% Off,Multicuisine
+dinner,Cayenne ,4.0,Banjara Hills,1000,25% Off,Multicuisine
+dinner,TOS Club & Lounge,4.6,Lakdikapul,900,35% Off,Multicuisine
+dinner,Rika ,4.5,Banjara Hills,1100,35% Off,"Japanese, Asian"
+dinner,Sankalp Restaurant ,4.3,Panjagutta,1500,35% Off,South Indian
+dinner,The Sicca Bar,4.1,Somajiguda,1150,35% Off,"Cocktail Menu, Finger Food"
+dinner,By The Bay,4.0,Park Continental,800,35% Off,"Cocktail Menu, Multicuisine"
+dinner,Masala Republic by Dadu's,3.0,Jubilee Hills,800,40% Off,Multicuisine
+dinner,Rayalaseema Ruchulu,3.8,Madhapur,1800,40% Off,"Andhra, South Indian"
+dinner,The Terrace,4.3,ITC Kakatiya,2700,25% Off,Multicuisine
+dinner,24/7 Gallery Café,3.3,Banjara Hills,1500,35% Off,Multicuisine
+dinner,Jewel of Nizam,4.0,Banjara Hills,300,25% Off,Indian
+dinner,Palace Heights,3.3,Khairatabad,800,35% Off,Multicuisine
+dinner,Once Upon A Time ,4.0,Banjara Hills,600,25% Off,Indian
+dinner,Tulips,4.8,Jubilee Hills,800,25% Off,Multicuisine
+dinner,Kismet ,4.6,The Westin Hyderabad Mindspace,3000,40% Off,"Finger Food, Cocktail Menu"
+dinner,Mandi King Elite Arabian Restaurant,4.1,Sheraton Hyderabad Hotel,2400,55% Off,Arabian
+dinner,Sync Resto Bar,3.2,Ibis Hotel,1400,75% Off,Indian
+dinner,Little Italy,4.0,Amberpet,500,55% Off,"Mexican, Italian"
+dinner,10 Biryanis,1.0,Panjagutta,550,25% Off,"North Indian, Mughlai"
+dinner,Rium Cafe,4.0,Hotel Central Park,800,55% Off,"Continental, Chinese"
+dinner,Kebabs & Kurries,5.0,Himayath Nagar,600,50% Off,Indian
+dinner,Flavours ,1.0,Begumpet,900,45% Off,Multicuisine
+dinner,Melange ,3.9,Gachibowli,1200,60% Off,"Multicuisine, Barbeque"
+dinner,Barbeque Nation,4.5,Himayath Nagar,1100,45% Off,Multicuisine
+dinner,MOB - Belgium Beer House,4.3,Le Méridien Hyderabad,1900,55% Off,Multicuisine
+dinner,Bikanervala,4.6,Hitech City,1500,50% Off,South Indian
+dinner,Dakshin,3.7,Le Méridien Hyderabad,2000,50% Off,Barbeque
+dinner,Barbeque Spice,4.0,Royalton Hotel,1000,50% Off,Multicuisine
+dinner,The Fifth Street,3.8,The Peerless Inn,800,50% Off,Turkish
+dinner,Zouq ,4.5,Jubilee Hills,1000,65% Off,"Multicuisine, Barbeque"
+dinner,AB's - Absolute Barbecues,4.0,Gachibowli,400,45% Off,Biryani
+dinner,Paradise Biryani - A Legend since 1953,4.0,Hotel Quality Inn Residency,1200,45% Off,Multicuisine
+dinner,Garage Moto Cafe,4.2,Ellaa Hotels,1500,50% Off,"Finger Food, Cocktail Menu"
+dinner,Jolly Bros and Co.,5.0,Jubilee Hills,800,55% Off,Multicuisine
+dinner,FEU - Dessert Bar & Kitchen,3.3,Jubilee Hills,1100,35% Off,Multicuisine
+dinner,The Palm Banjara,4.2,Jubilee Hills,800,55% Off,Indian
+dinner,Kadali Kitchen,3.8,Gachibowli,1600,45% Off,Multicuisine
+dinner,Seventh Heaven,5.0,Nanakramguda,500,35% Off,Momos
+dinner,Wow! Momo,4.3,Fairfield by Marriott Hyderabad,2800,55% Off,Multicuisine
+dinner,Urban Nemo Cafe In Garden,4.0,Kukatpally,700,55% Off,Multicuisine
+dinner,Deccan Pavilion,4.0,Hafeezpet,800,45% Off,Multicuisine
+dinner,Arabian Nights Mandi Restaurant,4.3,Royalton Hotel,1200,55% Off,Multicuisine
+dinner,MoMo Cafe,2.7,Hitech City,2100,50% Off,Multicuisine
+dinner,Miami Galley Cafe,3.4,Kondapur,800,50% Off,Tex-Mex
+dinner,Chili's American Grill & Bar,4.3,Gachibowli,1000,45% Off,South Indian
+dinner,Dakshin Haveli,4.4,Radisson Hyderabad Hitec City,2000,45% Off,"Cocktail Menu, Multicuisine"
+dinner,Fly - Feel The High,5.0,Jubilee Hills,1200,45% Off,Multicuisine
+dinner,Golden Pavilion,5.0,Peeramcheru,600,35% Off,Continental
+dinner,The Gallery Cafe,4.0,Gachibowli,1000,45% Off,South Indian
+dinner,Telugu Table,5.0,Kukatpally,1000,45% Off,Multicuisine
+dinner,Masala Republic by Dadu's,4.5,Le Méridien Hyderabad,1800,55% Off,"Chinese, Continental"
+dinner,Navika Cafe,4.7,Sheraton Hyderabad Hotel,2000,50% Off,Multicuisine
+dinner,Hoist | Bar & Kitchen,4.0,Begumpet,1200,55% Off,Desserts
+dinner,Krispy Kreme,5.0,The Westin Hyderabad Mindspace,3000,40% Off,Fast Food
+dinner,Cups N Plates,4.0,Jubilee Hills,1100,35% Off,Multicuisine
+dinner,Kritunga The Palegars Cuisine,4.5,Kukatpally,1500,40% Off,Multicuisine
+dinner,Bel Posto The Cafe,3.8,The Golkonda Resort,1800,45% Off,Multicuisine
+dinner,Okra,3.5,Hotel Avasa,2000,40% Off,"Italian, European, Bakery"
+dinner,The Bedford BakeHouse & TeaRoom,4.4,Novotel Hyderabad Convention Centre,2500,40% Off,Italian
+dinner,Esthio,4.0,Serilingampalle,800,55% Off,"Finger Food, Cocktail Menu"
+dinner,Insomnia,4.1,Jubilee Hills,1500,45% Off,"Chinese, Indian"
+dinner,Ming Ustad,4.0,Kondapur,800,45% Off,Multicuisine
+dinner,Params Kitchen & Cafe,4.0,Jubilee Hills,1500,35% Off,Multicuisine
+dinner,Banjara9 Multi Cuisine Restaurant,4.0,Madhapur,1300,45% Off,Indian
+dinner,Deccan Cafe Restaurant ,4.6,Novotel Hyderabad Convention Centre,1500,40% Off,Multicuisine
+dinner,Chandra Haveli,5.0,Kavadiguda,300,40% Off,"Finger Food, Cocktail Menu"
+dinner,Sounds & Spirits,5.0,Madhapur,1195,40% Off,Multicuisine
+dinner,Bharpur Multicusine Family Restaurant,4.2,Kompally,900,40% Off,Finger Food
+dinner,Moonlight Bar,5.0,Hitech City,800,55% Off,Multicuisine
+dinner,Scotchman,4.5,Jubilee Hills,1800,40% Off,Multicuisine
+dinner,Pavilion,4.5,Gachibowli,2000,35% Off,Finger Food
+dinner,Marco Polo Bar,4.3,Kukatpally,1000,65% Off,"Beverages, Fast Food, Desserts"
+dinner,Candy cloud factory,4.0,Kompally,500,50% Off,Multicuisine
+dinner,Flechazo Gold,4.3,Fairfield by Marriott Hyderabad,2000,40% Off,Multicuisine
+dinner,Hyderabad Mandi Restaurant ,2.5,Hitech City,1300,40% Off,Multicuisine
+dinner,ZING - Sky Bar + Lounge,1.0,Jubilee Hills,1000,25% Off,Italian
+dinner,Onesta,4.0,Madeenaguda,800,40% Off,Multicuisine
+dinner,Promenade,4.2,Jubilee Hills,1400,35% Off,Multicuisine
+dinner,Aroma Multi Cuisine Restaurant,4.6,Kukatpally,1000,45% Off,"Fast Food, Desserts"
+dinner,Frosty Den,4.0,Hotel Jubilee Ridge,1100,40% Off,Multicuisine
+dinner,Connect,4.0,Secunderabad,700,40% Off,"Finger Food, Cocktail Menu"
+dinner,The Library Bar,4.0,Madhapur,350,40% Off,Multicuisine
+dinner,Solcito ,4.5,Himayath Nagar,800,35% Off,Pan Asian
+dinner,Ping's Café Orient,3.5,Gachibowli,1100,35% Off,European
+dinner,Saz Pizzeria,4.1,Jubilee Hills,400,35% Off,Pan Asian
+dinner,Tiga,4.0,Madhapur,1200,70% Off,"European, South Indian"
+dinner,Chika A Coffee Collective,3.9,Kondapur,1500,35% Off,Mediterranean
+dinner,Casbah,4.0,Manikonda,600,35% Off,Cafe
+dinner,Mairu Bistro & Cafe,4.0,Madhapur,1000,35% Off,"Finger Food, Cocktail Menu"
+dinner,Altitude,4.0,Kothapet,800,40% Off,Indian
+dinner,Spice It ,4.3,Raji Reddy Nagar,500,40% Off,"Korean, Thai, Asian, Continental"
+dinner,Tamasha - Restro Cafe,3.6,Jubilee Hills,1200,35% Off,Multicuisine
+dinner,Jonathan's Kitchen ,2.7,Madhapur,600,35% Off,Multicuisine
+dinner,Heart Cup Coffee,3.7,L B Nagar,800,40% Off,"Cocktail Menu, South Indian"
+dinner,Ichata kitchen And Bar,4.9,Kukatpally,1000,35% Off,Multicuisine
+dinner,Seasonal Tastes ,5.0,Kokapet,400,35% Off,Multicuisine
+dinner,Platform 65,3.7,Gachibowli,3000,45% Off,Tapas
+dinner,Post Card Global Tapas Bar,3.5,Hotel Deccan Serai,1600,25% Off,Multicuisine
+dinner,The Globe Grub,3.0,Jubilee Hills,1900,35% Off,Indian
+dinner,Jasper,4.4,Manikonda,1000,35% Off,"Cocktail Menu, Multicuisine"
+dinner,Stone Waters - Kitchen & Lounge,4.0,Shankarpally,1000,55% Off,North Indian
+dinner,Punjab Grill,4.0,Gandipet,500,55% Off,Multicuisine
+dinner,Saffron Soul ,4.0,The Manohar,1200,25% Off,"Mexican, Tex-Mex"
+dinner,Taco Bell,2.9,Secunderabad,1400,50% Off,South Indian
+dinner,Southern Kitchen,5.0,Manikonda,1200,45% Off,Multicuisine
+dinner,Black Pearl ,4.0,Hitech City,2200,45% Off,South Indian
+dinner,Naughty Kodi,4.0,Madhapur,650,45% Off,Multicuisine
+dinner,Stellar Reserve,4.4,Nanakramguda,1500,50% Off,Multicuisine
+dinner,Squeeze @ The Lime,5.0,Jubilee Hills,1000,55% Off,North Indian
+dinner,Punjab Grill,4.0,Secunderabad,1000,50% Off,Italian
+dinner,La Milano Pizzeria,4.2,Jubilee Hills,1200,55% Off,"Italian, Cocktail Menu"
+dinner,Prego,4.0,Hitech City,400,40% Off,"Cocktail Menu, Multicuisine"
+dinner,Amnesia Lounge Bar,4.0,Hitech City,600,40% Off,Multicuisine
+dinner,TGI Friday's,4.0,Hitech City,300,25% Off,Multicuisine
+dinner,Rebel & Rye Bar & Kitchen,4.0,Kondapur,1000,40% Off,"European, Indian"
+dinner,Turquoise,5.0,Nanakramguda,600,35% Off,Indian
+dinner,Signature Grills,4.3,Madhapur,1000,35% Off,"Pan Asian, Asian"
+dinner,YouMee ,4.0,Jubilee Hills,1200,55% Off,"European, French"
+dinner,Cafe Noir,4.5,Trident Hyderabad,5000,40% Off,Multicuisine
+dinner,Delicia - Multicuisine Restaurant,5.0,Hitech City,1400,40% Off,Cafe
+dinner,Yummy Bee,4.0,Hafeezpet,500,45% Off,Multicuisine
+dinner,Daily Rituals,4.0,Gachibowli,800,35% Off,"Chinese, North Indian"
+dinner,President Dhaba,4.1,Aero Plaza,2000,25% Off,"North Indian, Chinese"
+dinner,Punjabi Swag,4.0,Madhapur,400,35% Off,Mughlai
+dinner,Ohri's Sahib's Barbecue,4.0,Madhapur,1000,35% Off,Multicuisine
+dinner,Amnesia Sky Bar,4.0,Gachibowli,500,35% Off,South Indian
+dinner,Aidu,4.5,Lingampally,1600,40% Off,Multicuisine
+dinner,Globe Buffetio ,3.6,Secunderabad,700,35% Off,"Multicuisine, Cocktail Menu"
+dinner,Veto Bar & Kitchen,4.8,Jubilee Hills,800,35% Off,Multicuisine
+dinner,The Globe Grub,3.4,Hotel Taar Tangerine,1400,35% Off,Multicuisine
+dinner,House Of Chefs,4.5,L B Nagar,1000,35% Off,Finger Food
+dinner,Shanghai Chef,4.0,Financial District,1800,40% Off,Finger Food
+dinner,Wild Rovers Sky Bar & Lounge,4.0,Amberpet,500,60% Off,Bakery
+fastfood,Alfi's Kitchen,4.0,Banjara Hills,300,35% Off,Cafe
+fastfood,Ram's Dosa House,4.0,Banjara Hills,250,35% Off,Bakery
+fastfood,Ohri's Cake Nation,1.0,Banjara Hills,800,35% Off,Chinese
+fastfood,Wow! China Bistro,1.0,Banjara Hills,600,25% Off,Finger Food
+fastfood,Wisphot,4.0,Punjagutta,500,45% Off,Momos
+fastfood,Wow! Momo,5.0,Somajiguda,400,40% Off,Multicuisine
+fastfood,Fat Boy's Burger,4.0,Padmarao Nagar,400,40% Off,"European, Beverages"
+fastfood,Fat Tiger,4.0,Banjara Hills,400,40% Off,South Indian
+fastfood,Southern Kitchen,4.8,Gowlidoddy,900,45% Off,Desserts
+fastfood,Desserts by Renu Jivan,4.0,Banjara Hills,250,35% Off,"Coffee, Cafe"
+fastfood,Hazy Owl,4.0,Somajiguda,350,35% Off,Cafe
+fastfood,T&T - Tea and Tiffins,4.0,Somajiguda,300,35% Off,Bakery
+fastfood,Delight bakery,4.0,Begumpet,300,35% Off,"Cafe, Coffee and Tea"
+fastfood,The Great Indian Chai,4.0,Somajiguda,300,35% Off,"Cafe, Street Food"
+fastfood,Chai Point ,5.0,Banjara Hills,250,25% Off,Fast Food
+fastfood,PVR,5.0,RK Cineplex Mall,500,25% Off,Desserts
+fastfood,Bakelore,4.0,Banjara Hills,500,25% Off,Pizza
+fastfood,US Pizza,3.7,Amberpet,800,60% Off,"Mexican, Tex-Mex"
+fastfood,Taco Bell,1.0,Panjagutta,550,25% Off,South Indian
+fastfood,The Bowl Rise,4.0,Sunrise Business Hotel,800,60% Off,Bakery
+fastfood,Bakelore,5.0,Madhapur,500,55% Off,Milkshakes
+fastfood,1989 Milkshakes,1.0,Madhapur,500,55% Off,"Pizza, Milkshakes"
+fastfood,1989 Pizza & Thick Shake's,1.0,Madhapur,500,55% Off,Burgers
+fastfood,1989 Burger,1.0,Uppal,500,55% Off,"Beverages, Pizza"
+fastfood,1989 Pizza & Thickshakes,1.0,Secunderabad,400,55% Off,"Beverages, Italian"
+fastfood,1989 Pizza & Thickshakes,1.0,Mansoorabad,400,55% Off,"Italian, Japanese"
+fastfood,Fresco's Pizza,4.0,Kandi,600,50% Off,Multicuisine
+fastfood,One Bite,4.0,Kompally,500,50% Off,"Chinese, Indian"
+fastfood,Eat Chat & More,4.0,Hafeezpet,450,50% Off,Coffee
+fastfood,Tim Hortons,5.0,Madhapur,800,45% Off,Fast Food
+fastfood,Wow! Chicken,5.0,Kavadiguda,300,40% Off,South Indian
+fastfood,Umm Uttapam,4.0,Madhapur,500,45% Off,Multicuisine
+fastfood,Bikanervala,3.7,Basheer Bagh,1000,25% Off,"Bakery, Desserts"
+fastfood,Bakelore,4.6,Kondapur,500,45% Off,Biryani
+fastfood,Green Bucket Biryani,4.0,Nagole,500,45% Off,Multicuisine
+fastfood,Food Villa,4.0,Kothapet,400,45% Off,"Bakery, Fast Food"
+fastfood,TOC Bakers,5.0,Narayanguda,300,35% Off,Italian
+fastfood,Peppanizze,5.0,Padmarao Nagar,400,40% Off,Beverages
+fastfood,The ThickShake Factory,4.8,Himayath Nagar,350,35% Off,South Indian
+fastfood,Vanabhojanam,1.0,Kukatpally,900,45% Off,"Desserts, Sandwiches, Milkshakes"
+fastfood,London Waffle Co ,1.0,Himayath Nagar,250,40% Off,"European, Italian"
+fastfood,Greens & More Skyview,4.0,Hitech City,400,40% Off,"Italian, European"
+fastfood,Greens & More Spire,4.0,Hitech City,400,40% Off,Shakes
+fastfood,The ThickShake Factory,4.0,Dilsukhnagar,300,40% Off,South Indian
+fastfood,CVs SriPada Restaurant ,4.0,S R Nagar,600,35% Off,South Indian
+fastfood,CVs SriPada Restaurant ,4.0,S R Nagar,600,35% Off,Chinese
+fastfood,Chinese Wok,4.0,Hitech City,600,40% Off,European
+fastfood,Bon Appetit Cafe,4.0,Shaikpet,350,35% Off,Mexican
+fastfood,Wrap It,4.0,Shaikpet,200,35% Off,"Beverages, Desserts"
+fastfood,Zen Paradise,4.0,Secunderabad,600,40% Off,Chinese
+fastfood,Barista,4.0,Gachibowli,600,40% Off,Multicuisine
+fastfood,Squisito Pizzeria,4.0,Secunderabad,400,40% Off,"Andhra, South Indian"
+fastfood,Kadapa Natu Thali,4.0,Madhapur,350,40% Off,"Fast Food, Burgers"
+fastfood,Shrimmers,4.0,Padmarao Nagar,300,40% Off,South Indian
+fastfood,Inti Ruchulu,4.0,Shaikpet,200,35% Off,Fast Food
+fastfood,BAC Healthy,4.0,Shaikpet,500,35% Off,Desserts
+fastfood,Sanjos Donuts,4.0,Gaddiannaram,300,40% Off,South Indian
+fastfood,Organic Kitchen,5.0,Chanda Nagar,300,40% Off,Arabian
+fastfood,Al Ammar Arabian Cafeteria,4.0,Saroor Nagar,250,40% Off,"Bakery, Desserts"
+fastfood,Harley's Fine Baking	,5.0,Madhapur,600,35% Off,"Biryani, Chinese"
+fastfood,Jagadamba Junction.,5.0,Puppalguda,600,35% Off,South Indian
+fastfood,Nati Ruchi,5.0,Kukatpally,500,35% Off,Burgers
+fastfood,Burger Reddy,5.0,Madhapur,350,35% Off,"European, Fast Food"
+fastfood,Chef Man F & B,4.0,Madhapur,250,35% Off,American
+fastfood,UFO Fries & Corn,4.0,L B Nagar,300,35% Off,Fast Food
+fastfood,Burger's Wharf,4.0,Kukatpally,300,35% Off,Biryani
+fastfood,Baburao Gari Biryani,4.0,Kukatpally,300,35% Off,Shakes
+fastfood,Taste of shakes,4.0,Gachibowli,400,35% Off,Ice Cream
+fastfood,Old Mumbai Icecream,4.0,Gachibowli,300,35% Off,"Chinese, Fast Food"
+fastfood,ETC - Eat Talk Chill,4.0,Madhapur,300,35% Off,Multicuisine
+fastfood,Shi-Tori,4.0,Madhapur,600,35% Off,"Desserts, Milkshakes"
+fastfood,Jedi's waffles ,4.0,Madhapur,600,35% Off,Mughlai
+fastfood,Masala Wok Biryani Restaurant,4.0,Langer Houz,300,35% Off,South Indian
+fastfood,Palnadu - South Indian Kitchen,4.0,Madhapur,500,35% Off,Indian
+fastfood,Tasty Elements,4.0,Madhapur,500,35% Off,"Fast Food, Shakes"
+fastfood,Milk Way Shake's,4.0,Chanda Nagar,250,35% Off,Beverages
+fastfood,Delight Pavillion,4.0,Madhapur,300,35% Off,Multicuisine
+fastfood,Raja Vari Kitchen,4.0,Kukatpally,300,35% Off,Momos
+fastfood,Max Momos,4.0,Madhapur,200,35% Off,"Beverages, Shakes"
+fastfood,The Shake Studio,4.0,Kukatpally,300,35% Off,Chinese
+fastfood,Fu-King,4.0,Madhapur,400,35% Off,"Beverages, Shakes"
+fastfood,The Shake Studio,4.0,Kukatpally,300,35% Off,European
+fastfood,Eat Monk,4.0,Madhapur,400,35% Off,Multicuisine
+fastfood,The Burning Grills - TGB Cafe & Lounge,4.0,Gachibowli,500,35% Off,Desserts
+fastfood,Blue Bliss,4.0,Secunderabad,500,35% Off,Desserts
+fastfood,Waffle Studio,4.0,Kukatpally,300,35% Off,"North Indian, South Indian"
+fastfood,Sumadhura Ruchulu,4.0,Madhapur,250,35% Off,"Fast Food, Beverages"
+fastfood,Fruit Mantra,4.0,Madhapur,300,35% Off,"North Indian, Kababs"
+fastfood,Kabab Bistro,4.0,Madhapur,500,35% Off,"Bakery, Desserts"
+fastfood,Yard Bakery,4.0,Kukatpally,650,35% Off,"Biryani, Kerala"
+fastfood,Tharavadu - Kerala Cuisine,4.0,Madhapur,500,35% Off,"Italian, Sandwiches, Salad"
+fastfood,Snack Time - Little More,4.0,Madhapur,500,35% Off,North Indian
+fastfood,Indian Kitchen,4.0,Madhapur,500,35% Off,South Indian
+fastfood,TNT - Toast & Tiffin,4.0,Madhapur,500,35% Off,"Biryani, South Indian"
+fastfood,Biryani Pichollu ,4.0,Madhapur,500,35% Off,Multicuisine
+fastfood,Kesariya Restaurant ,3.7,Kondapur,750,35% Off,Fast Food
+fastfood,Cafe 90's,5.0,Hafeezpet,300,35% Off,Street Food
+fastfood,Pakoda Hub,4.0,Nizampet,500,35% Off,Multicuisine
+fastfood,Backbenchers Kaffe,4.0,Shamshabad,300,35% Off,Multicuisine
+fastfood,Sri Ridhz Kitchen,4.0,Gachibowli,400,35% Off,Multicuisine
+fastfood,Potlam Biryani,4.0,Bachupally,400,35% Off,"Cafe, Bakery"
+fastfood,Deccan Chai Cafe,4.0,Kukatpally,500,35% Off,South Indian
+fastfood,Annapurna Vilas,4.0,Kompally,600,35% Off,"Beverages, Continental"
+fastfood,Base Liberty,4.0,Shamshabad,400,35% Off,Multicuisine
+fastfood,The Fish Revolution,4.0,Secunderabad,400,35% Off,Fast Food
+fastfood,Cravehub Cafe,4.0,Vanasthalipuram,300,35% Off,European
+fastfood,Roostly Continental,4.0,Boduppal,300,35% Off,"Beverages, Continental"
+fastfood,Base Liberty,4.0,Shamshabad,400,35% Off,Multicuisine
+fastfood,The Fish Revolution,4.0,Secunderabad,400,35% Off,Fast Food
+fastfood,Cravehub Cafe,4.0,Vanasthalipuram,300,35% Off,Cafe
+fastfood,Musicafe ,4.0,Kukatpally,300,35% Off,"Fast Food, Beverages"
+fastfood,Matargashti Tea & More,4.0,Kokapet,400,35% Off,Bakery
+fastfood,MJ Home Bakes,4.0,Nallagandla,300,35% Off,Bakery
+fastfood, InkoTea,4.0,Hafeezpet,400,35% Off,Cafe
+fastfood,Kafetearia,4.0,Secunderabad,450,35% Off,"Chinese, Thai"
+fastfood,Chings Chinese & Thai,4.0,Kothapet,600,35% Off,North Indian
+fastfood,Daddy's Kitchen,4.0,Kondapur,400,35% Off,"Biryani, Chinese"
+fastfood,Teenmaar Restaurant,4.0,Vanasthalipuram,300,35% Off,Fast Food
+fastfood,Bae-King,4.0,Nizampet,300,35% Off,"Italian, Shawarma, Milkshakes"
+fastfood,Hunger Stories,4.0,Vanasthalipuram,300,35% Off,Biryani
+fastfood,Baburao Gari Biryani,4.0,Nizampet,350,35% Off,Biryani
+fastfood,Red Bucket Biryani,4.0,Nizampet,400,35% Off,Cafe
+fastfood,Cafe Tanishi,4.0,Bachupally,400,35% Off,Cafe
+fastfood,Burgers Bistro ,4.0,Miyapur,400,35% Off,"Italian, Shawarma, Milkshakes"
+fastfood,Hunger Stories,4.0,Vanasthalipuram,300,35% Off,Biryani
+fastfood,Baburao Gari Biryani,4.0,Nizampet,350,35% Off,Biryani
+fastfood,Red Bucket Biryani,4.0,Nizampet,400,35% Off,Bakery
+fastfood,Flurys,4.0,Jubilee Hills,1000,35% Off,Chinese
+fastfood,The Smoky Box ,4.0,Kompally,600,35% Off,Pizza
+fastfood,KGF Italian Wood Fire Pizza,4.0,Srinagar Colony,500,35% Off,Cafe
+fastfood,Adharaho,4.0,Secunderabad,600,35% Off,Cafe
+fastfood,Amrutha Paniyam,4.0,Chanda Nagar,600,35% Off,Fast Food
+fastfood,Wisphot,4.0,Secunderabad,500,35% Off,Pizza
+fastfood,KGF Italian Wood Fire Pizza,4.0,Srinagar Colony,500,35% Off,Cafe
+fastfood,Adharaho,4.0,Secunderabad,600,35% Off,Cafe
+fastfood,Amrutha Paniyam,4.0,Chanda Nagar,600,35% Off,Fast Food
+fastfood,Big Bites Shawarma & Momos,4.0,Bachupally,300,35% Off,Chinese
+fastfood,Crackpot,4.0,Secunderabad,200,35% Off,Chinese
+fastfood,Fu-king,4.0,Nizampet,400,35% Off,Chinese
+fastfood,Fry'd Chicken House,4.0,Kothapet,300,35% Off,Multicuisine
+fastfood,Claws N Wings,4.0,Secunderabad,450,35% Off,Fast Food
+fastfood,The New Batido,4.0,Kothapet,300,35% Off,Cafe
+fastfood,Taagandi,4.0,Miyapur,300,35% Off,Fast Food
+fastfood,Kapu's Cafe,4.0,Saroor Nagar,200,35% Off,Chinese
+fastfood,Fry'd Chicken House,4.0,Kothapet,300,35% Off,Multicuisine
+fastfood,Claws N Wings,4.0,Secunderabad,450,35% Off,Chinese
+fastfood,Fu-king,4.0,Nizampet,400,35% Off,Chinese
+fastfood,Crackpot,4.0,Secunderabad,200,35% Off,South Indian
+fastfood,Indian Tiffin Room ,4.0,Madhapur,700,45% Off,"Shawarma, Momos"
+fastfood,Big Bites Shawarma & Momos,3.0,Nizampet,400,35% Off,Ice Cream
+fastfood,Cold Stone Creamery,4.3,Begumpet,700,25% Off,Biryani
+fastfood,Big Bucket Biryani,1.0,Vanasthalipuram,350,35% Off,"Biryani, Chinese"
+fastfood,Red Bucket Biryani K.P.H.B,5.0,Kukatpally,500,25% Off,Street Food
+fastfood,Samosa Party,5.0,Hitech City,150,25% Off,Street Food
+fastfood,Delhi Chat House,4.0,Saroor Nagar,200,25% Off,Desserts
+fastfood,London Waffle co.,4.0,Madhapur,300,25% Off,"Beverages, Fast Food"
+fastfood,Fruitea,4.0,Gachibowli,150,25% Off,Ice Cream
+fastfood,Emoi,4.0,Kondapur,150,25% Off,"Biryani, Street Food"
+fastfood,Rajahmundry Ruchulu,4.0,Madhapur,400,25% Off,South Indian
+fastfood,Idly Palace,4.0,Madhapur,200,25% Off,Cafe
+fastfood,Sizzling Panda,4.0,Bachupally,400,25% Off,"Biryani, Chinese"
+fastfood,Red Bucket Biryani Addagutta ,4.0,Kukatpally,500,25% Off,"Mexican, Italian, Beverages"
+breakfast,The Ofen,5.0,Banjara Hills,2000,45% Off,"Chinese, Desserts, Multicuisine, Continental, Finger Food, North Indian"
+breakfast,Golconda Pavilion,4.4,ITC Kohenur,2500,25% Off,Multicuisine
+breakfast,Aster Cafe & Kitchen,4.0,Banjara Hills,1000,40% Off,Multicuisine
+breakfast,Pizza Zone,4.0,Habsiguda,1000,25% Off,North Eastern
+breakfast,7 Sisters,4.4,Banjara Hills,700,50% Off,"Chinese, North Eastern, Pan Asian, Asian"
+breakfast,Hibacci,4.4,Banjara Hills,1250,40% Off,"European, South Indian"
+breakfast,Vasaara,4.0,Banjara Hills,1000,40% Off,"Cafe, Bakery"
+breakfast,Blu Café Lounge,4.3,Radisson Blu Plaza Hotel,900,55% Off,"European, Multicuisine"
+breakfast,Mazuri Cafe,4.0,Banjara Hills,1000,55% Off,Multicuisine
+breakfast,Tabla,4.2,Banjara Hills,1333,45% Off,European
+breakfast,Imli Sarai,4.0,Banjara Hills,1800,45% Off,Multicuisine
+breakfast,Pakka Local,4.2,Banjara Hills,1200,25% Off,Mediterranean
+breakfast,Hummus House,5.0,Banjara Hills,1100,35% Off,Multicuisine
+breakfast,Habitat Cafe,4.7,Banjara Hills,1200,35% Off,European
+breakfast,The Octagon Cafe,4.0,Banjara Hills,1600,35% Off,Indian
+breakfast,Mezbaan Kitchen,5.0,Banjara Hills,800,45% Off,"Italian, Pizza"
+breakfast,La Pino'z Pizza,5.0,Banjara Hills,400,35% Off,"Fast Food, European"
+breakfast,Moyaaah!,4.0,Banjara Hills,700,25% Off,Indian
+breakfast,Namchi - Fusion Of Taste Buds,4.2,Banjara Hills,1000,45% Off,Multicuisine
+breakfast,Lemerian Workin Cafe,4.0,Banjara Hills,800,35% Off,Chinese
+breakfast,Wow! China Bistro,1.0,Banjara Hills,600,25% Off,"Finger Food, Cocktail Menu"
+breakfast,Harry's The Pub,4.8,Aditya Park,1400,50% Off,Multicuisine
+breakfast,Kasuall,3.7,Somajiguda,1200,75% Off,Multicuisine
+breakfast,Melange ,4.0,The Golkonda Hotel,2200,45% Off,Multicuisine
+breakfast,Verandah ,4.5,The Park,2500,35% Off,"Finger Food, Cocktail Menu"
+breakfast,Zanzi Bar,5.0,The Golkonda Hotel,1900,50% Off,Multicuisine
+breakfast,Tolly Junction Rest O Bar,4.0,Banjara Hills,1000,50% Off,Multicuisine
+breakfast,TOS Club & Lounge,4.0,Banjara Hills,1000,50% Off,Multicuisine
+breakfast,Medley,4.6,Jubilee Hills,1000,45% Off,Multicuisine
+breakfast,24/7 Gallery Café,4.7,Hyatt Place Hyderabad Banjara Hills,1500,45% Off,Multicuisine
+breakfast,The Dining Room,4.1,Park Hyatt,3500,40% Off,Multicuisine
+breakfast,Masala Republic by Dadu's,4.5,Banjara Hills,1100,40% Off,"North Indian, Mughlai"
+breakfast,10 Biryanis,5.0,Jubilee Hills,1200,55% Off,South Indian
+breakfast,Flavours ,4.0,Ameerpet,800,55% Off,Multicuisine
+breakfast,Sankalp Restaurant ,5.0,Jubilee Hills,1000,50% Off,Multicuisine
+breakfast,MoMo Cafe,3.8,Courtyard By Marriott,2000,55% Off,"Continental, Chinese"
+breakfast,Garage Moto Cafe,4.0,Jubilee Hills,800,35% Off,Momos
+breakfast,Rium Cafe,2.0,Banjara Hills,1200,75% Off,Multicuisine
+breakfast,Wow! Momo,1.0,Ameerpet,400,40% Off,"Multicuisine, Barbeque"
+breakfast,Deccan Pavilion,3.9,ITC Kakatiya,2600,55% Off,Multicuisine
+breakfast,AB's - Absolute Barbecues,4.5,Banjara Hills,1850,25% Off,South Indian
+breakfast,Bel Posto The Cafe,4.5,Jubilee Hills,800,55% Off,Continental
+breakfast,Dakshin Haveli,4.0,Banjara Hills,400,50% Off,"Chinese, Continental"
+breakfast,The Gallery Cafe,5.0,Banjara Hills,900,40% Off,Desserts
+breakfast,Navika Cafe,4.5,Jubilee Hills,1200,40% Off,Multicuisine
+breakfast,Krispy Kreme,4.0,Banjara Hills,350,40% Off,"European, South Indian"
+breakfast,FEU - Dessert Bar & Kitchen,5.0,Jubilee Hills,1400,35% Off,Fast Food
+breakfast,Chika A Coffee Collective,4.0,Banjara Hills,1000,25% Off,"Italian, European, Bakery"
+breakfast,Cups N Plates,4.6,Lakdikapul,900,35% Off,Multicuisine
+breakfast,The Bedford BakeHouse & TeaRoom,4.5,Banjara Hills,1100,35% Off,Italian
+breakfast,Seventh Heaven,4.3,Panjagutta,1500,35% Off,Indian
+breakfast,Esthio,4.1,Somajiguda,1150,35% Off,Multicuisine
+breakfast,Deccan Cafe Restaurant ,4.0,Park Continental,800,35% Off,Multicuisine
+breakfast,Chandra Haveli,3.0,Jubilee Hills,800,40% Off,Finger Food
+breakfast,Flechazo Gold,3.8,Madhapur,1800,40% Off,Multicuisine
+breakfast,Marco Polo Bar,4.3,ITC Kakatiya,2700,25% Off,"Beverages, Fast Food, Desserts"
+breakfast,Golden Pavilion,3.3,Banjara Hills,1500,35% Off,Biryani
+breakfast,Candy cloud factory,4.0,Banjara Hills,300,25% Off,Italian
+breakfast,Paradise Biryani - A Legend since 1953,3.3,Khairatabad,800,35% Off,Multicuisine
+breakfast,Onesta,4.0,Banjara Hills,600,25% Off,Multicuisine
+breakfast,Urban Nemo Cafe In Garden,4.8,Jubilee Hills,800,25% Off,"Indian, Multicuisine, Western"
+breakfast,Seasonal Tastes ,4.6,The Westin Hyderabad Mindspace,3000,40% Off,Indian
+breakfast,Feast ,4.1,Sheraton Hyderabad Hotel,2400,55% Off,"Fast Food, Desserts"
+breakfast,Spice It ,3.2,Ibis Hotel,1400,75% Off,"Mexican, Tex-Mex"
+breakfast,Taco Bell,1.0,Panjagutta,550,25% Off,Multicuisine
+breakfast,Black Pearl ,4.0,Hotel Central Park,800,55% Off,Italian
+breakfast,La Milano Pizzeria,5.0,Himayath Nagar,600,50% Off,"European, French"
+breakfast,Cafe Noir,1.0,Begumpet,900,45% Off,Multicuisine
+breakfast,Aroma Multi Cuisine Restaurant,3.9,Gachibowli,1200,60% Off,Multicuisine
+breakfast,Masala Republic by Dadu's,4.5,Himayath Nagar,1100,45% Off,"European, Indian"
+breakfast,Turquoise,4.3,Le Méridien Hyderabad,1900,55% Off,"Chinese, Indian"
+breakfast,Ming Ustad,4.6,Hitech City,1500,50% Off,Indian
+breakfast,Jasper,3.7,Le Méridien Hyderabad,2000,50% Off,Multicuisine
+breakfast,Scotchman,4.0,Royalton Hotel,1000,50% Off,Multicuisine
+breakfast,Pavilion,3.8,The Peerless Inn,800,50% Off,Cafe
+breakfast,Mairu Bistro & Cafe,4.5,Jubilee Hills,1000,65% Off,Multicuisine
+breakfast,Ironhill cafe,4.0,Gachibowli,400,45% Off,Multicuisine
+breakfast,Venue Restaurant,4.0,Hotel Quality Inn Residency,1200,45% Off,Multicuisine
+breakfast,Indus,4.2,Ellaa Hotels,1500,50% Off,European
+breakfast,Thrivesome,5.0,Jubilee Hills,800,55% Off,Multicuisine
+breakfast,Terra Cafe,3.3,Jubilee Hills,1100,35% Off,"Korean, Thai, Asian, Continental"
+breakfast,Tamasha - Restro Cafe,4.2,Jubilee Hills,800,55% Off,Multicuisine
+breakfast,Heart Cup Coffee,3.8,Gachibowli,1600,45% Off,Multicuisine
+breakfast,Bambai Tapri - Financial District,5.0,Nanakramguda,500,35% Off,Multicuisine
+breakfast,Jonathan's Kitchen ,4.3,Fairfield by Marriott Hyderabad,2800,55% Off,Italian
+breakfast,Destination Cafe,4.0,Kukatpally,700,55% Off,"Chinese, South Indian"
+breakfast,The Airawat Kitchen,4.0,Hafeezpet,800,45% Off,Multicuisine
+breakfast,Abids Bistro ,4.3,Royalton Hotel,1200,55% Off,"Finger Food, Cocktail Menu"
+breakfast,Pause Lounge Bar,2.7,Hitech City,2100,50% Off,Multicuisine
+breakfast,Platform 65,3.4,Kondapur,800,50% Off,Multicuisine
+breakfast,Cuisinekraft,4.3,Gachibowli,1000,45% Off,Multicuisine
+breakfast,Zyng ,4.4,Radisson Hyderabad Hitec City,2000,45% Off,"Cocktail Menu, South Indian"
+breakfast,Ichata kitchen And Bar,5.0,Jubilee Hills,1200,45% Off,"Bakery, Cafe"
+breakfast,Harley's Fine Baking,5.0,Peeramcheru,600,35% Off,Indian
+breakfast,Raja Bhojanam - An Authentic Telugu Restaurant,4.0,Gachibowli,1000,45% Off,Multicuisine
+breakfast,Holi Restaurant & Bar,5.0,Kukatpally,1000,45% Off,"Cocktail Menu, Multicuisine"
+breakfast,Lattitude,4.5,Le Méridien Hyderabad,1800,55% Off,"Beverages, Fast Food, Finger Food"
+breakfast,Link Cafe,4.7,Sheraton Hyderabad Hotel,2000,50% Off,"North Indian, South Indian"
+breakfast,Cava | Kebabs & Curries,4.0,Begumpet,1200,55% Off,"American, European"
+breakfast,Daily Treats,5.0,The Westin Hyderabad Mindspace,3000,40% Off,Multicuisine
+breakfast,Masala Republic by Dadu's,4.0,Jubilee Hills,1100,35% Off,"Pan Asian, Asian"
+breakfast,YouMee ,4.5,Kukatpally,1500,40% Off,Multicuisine
+breakfast,Vetro,3.8,The Golkonda Resort,1800,45% Off,Multicuisine
+breakfast,Pi ,3.5,Hotel Avasa,2000,40% Off,"Cocktail Menu, Multicuisine"
+breakfast,Food Exchange,4.4,Novotel Hyderabad Convention Centre,2500,40% Off,European
+breakfast,Stoic Brew,4.0,Serilingampalle,800,55% Off,Multicuisine
+breakfast,Nataka Global Kitchen And Cafe,4.1,Jubilee Hills,1500,45% Off,"North Indian, Chinese"
+breakfast,Punjabi Swag,4.0,Kondapur,800,45% Off,Cafe
+breakfast,Yummy Bee,4.0,Jubilee Hills,1500,35% Off,Multicuisine
+breakfast,Locale Cafe & Bistro,4.0,Madhapur,1300,45% Off,Multicuisine
+breakfast,Le Cafe,4.6,Novotel Hyderabad Convention Centre,1500,40% Off,Fast Food
+breakfast,Wow! Chicken,5.0,Kavadiguda,300,40% Off,European
+breakfast,Nippon Kitsune,5.0,Madhapur,1195,40% Off,Multicuisine
+breakfast,Malnadu Kitchen,4.2,Kompally,900,40% Off,Cafe
+breakfast,Xero Degrees,5.0,Hitech City,800,55% Off,Multicuisine
+breakfast,Kake Di Hatti,4.5,Jubilee Hills,1800,40% Off,American
+breakfast,Buffalo Wild Wings,4.5,Gachibowli,2000,35% Off,"Finger Food, Cocktail Menu"
+breakfast,PS4- Lord of the Pubs,4.3,Kukatpally,1000,65% Off,"Pasta, Pizza, Coffee, Biryani"
+breakfast,Basil Bistro,4.0,Kompally,500,50% Off,Multicuisine
+breakfast,Cafe 1st Story,4.3,Fairfield by Marriott Hyderabad,2000,40% Off,Multicuisine
+breakfast,Smaaash C2H5OH Bowling Sports Bar,2.5,Hitech City,1300,40% Off,Multicuisine
+breakfast,Kortyard Cafe,1.0,Jubilee Hills,1000,25% Off,Arabian
+breakfast,M3 Mayukha Mughal Mandi Restaurant,4.0,Madeenaguda,800,40% Off,Indian
+breakfast,Vivaha Bhojanambu,4.2,Jubilee Hills,1400,35% Off,Multicuisine
+breakfast,Tabla Restaurant,4.6,Kukatpally,1000,45% Off,Multicuisine
+breakfast,Flavours,4.0,Hotel Jubilee Ridge,1100,40% Off,Multicuisine
+breakfast,Amaravati Amigos,4.0,Secunderabad,700,40% Off,Multicuisine
+breakfast,Arambam Arambam - Start with Millets,4.0,Madhapur,350,40% Off,Fast Food
+breakfast,The Board Game Cafe,4.5,Himayath Nagar,800,35% Off,Multicuisine
+breakfast,Masala Republic by Dadu's,3.5,Gachibowli,1100,35% Off,Ice Cream
+breakfast,Milano Ice Cream,4.1,Jubilee Hills,400,35% Off,Multicuisine
+breakfast,Renao Cafe & Bistro,4.0,Madhapur,1200,70% Off,Multicuisine
+breakfast,The Night Bird Bar & Cafe,3.9,Kondapur,1500,35% Off,"Bakery, Fast Food"
+breakfast,Harley's Fine Baking	,4.0,Manikonda,600,35% Off,Multicuisine
+breakfast,Brewbite Bistro ,4.0,Madhapur,1000,35% Off,"Indian, Chinese"
+breakfast,Hotel Nakshatra Inn,4.0,Kothapet,800,40% Off,Indian
+breakfast,Shree Tatva Veg Restaurant,4.3,Raji Reddy Nagar,500,40% Off,North Indian
+breakfast,Saffron Restaurant,3.6,Jubilee Hills,1200,35% Off,Multicuisine
+breakfast,Native Katha,2.7,Madhapur,600,35% Off,Multicuisine
+breakfast,Tree House	,3.7,L B Nagar,800,40% Off,Multicuisine
+breakfast,Ulavacharu,4.9,Kukatpally,1000,35% Off,"Cafe, Coffee"
+breakfast,White Teak Coffee Roasters,5.0,Kokapet,400,35% Off,Multicuisine
+breakfast,Mazzo,3.7,Gachibowli,3000,45% Off,Multicuisine
+breakfast,Serai Kitchen's,3.5,Hotel Deccan Serai,1600,25% Off,American
+breakfast,Buffalo Wild Wings,3.0,Jubilee Hills,1900,35% Off,"Fast Food, Italian"
+breakfast,Good Vibes Only Cafe,4.4,Manikonda,1000,35% Off,Indian
+breakfast,Trinca Cafe & Bistro,4.0,Shankarpally,1000,55% Off,Multicuisine
+breakfast,Chickpet Donne Biryani House Kokapet,4.0,Gandipet,500,55% Off,Multicuisine
+breakfast,The Manohar Coffee Shop,4.0,The Manohar,1200,25% Off,"Andhra, South Indian"
+breakfast,Vivaha Bhojnambu,2.9,Secunderabad,1400,50% Off,Multicuisine
+breakfast,Space Brunch & Bar,5.0,Manikonda,1200,45% Off,"French, Indian"
+breakfast,Nosh Epicure,4.0,Hitech City,2200,45% Off,European
+breakfast,Casa D' Mocha,4.0,Madhapur,650,45% Off,Multicuisine
+breakfast,Mamalola Penthouse,4.4,Nanakramguda,1500,50% Off,Multicuisine
+breakfast,Panduga,5.0,Jubilee Hills,1000,55% Off,Multicuisine
+breakfast,Ambaram The Rooftop Kitchen,4.0,Secunderabad,1000,50% Off,Multicuisine
+breakfast,Dhaara Cafe & Bistro,4.2,Jubilee Hills,1200,55% Off,"Italian, European"
+breakfast,Greens & More Spire,4.0,Hitech City,400,40% Off,Chinese
+breakfast,Chinese Wok,4.0,Hitech City,600,40% Off,South Indian
+breakfast,Raasa Cafe,4.0,Hitech City,300,25% Off,Indian
+breakfast,Bezawada Junction,4.0,Kondapur,1000,40% Off,"Bakery, Desserts"
+breakfast,Harley's Fine Baking,5.0,Nanakramguda,600,35% Off,European
+breakfast,The Big Cup Theory,4.3,Madhapur,1000,35% Off,Multicuisine
+breakfast,Cali Sizzlers,4.0,Jubilee Hills,1200,55% Off,Multicuisine
+breakfast,Amara,4.5,Trident Hyderabad,5000,40% Off,"American, Tex-Mex"
+breakfast,Chili's Grill & Bar,5.0,Hitech City,1400,40% Off,Multicuisine
+breakfast,Sip N Screen Cafe,4.0,Hafeezpet,500,45% Off,Multicuisine
+breakfast,Coal Spark,4.0,Gachibowli,800,35% Off,"Italian, Cocktail Menu"
+breakfast,Barley & Grapes Cafe Microbrewery,4.1,Aero Plaza,2000,25% Off,Multicuisine
+breakfast,Ironhill (Madhapur),4.0,Madhapur,400,35% Off,Multicuisine
+breakfast,Adhirat Pure Veg,4.0,Madhapur,1000,35% Off,"Bakery, European, Coffee"
+breakfast,Draak Espresso,4.0,Gachibowli,500,35% Off,Multicuisine
+breakfast,Theth Masala (Tellapur),4.5,Lingampally,1600,40% Off,Fast Food
+breakfast,Marley's Joint,3.6,Secunderabad,700,35% Off,Multicuisine
+breakfast,Ukusa,4.8,Jubilee Hills,800,35% Off,Multicuisine
+breakfast,Ambali Gampa,3.4,Hotel Taar Tangerine,1400,35% Off,Multicuisine
+breakfast,Cafe Baatakani,4.5,L B Nagar,1000,35% Off,Multicuisine
+breakfast,Alley 91 Bowling Bar,4.0,Financial District,1800,40% Off,Fast Food
