@@ -1,6 +1,6 @@
 # 🍽️ Exploratory Data Analysis on Hyderabad Restaurant Data | EazyDiner Scraping
 
-This project combines **Web Scraping** and **Exploratory Data Analysis (EDA)** on restaurant listings from [EazyDiner](https://www.eazydiner.com/hyderabad/restaurants). We collected real-time lunch listings in Hyderabad, cleaned and visualized the data to uncover trends in pricing, meal types, ratings, and offers.
+This project combines **Web Scraping** and **Exploratory Data Analysis (EDA)** on restaurant.We collected real-time lunch listings in Hyderabad, cleaned and visualized the data to uncover trends in pricing, meal types, ratings, and offers.
 
 ![Python](https://img.shields.io/badge/Python-EDA-blue)
 ![Web Scraping](https://img.shields.io/badge/WebScraping-BeautifulSoup-yellowgreen)
@@ -61,28 +61,7 @@ To understand the Hyderabad food landscape by:
    ```bash
    pip install -r requirements.txt
    ```
-3. Open and run `restaurant_eda.ipynb` in Jupyter Notebook
+3. Open and run `Edaproject.ipynb` in Jupyter Notebook
 
 ---
 
-## 🙌 Acknowledgments
-
-Grateful to **Innomatics Research Labs** for project support and mentoring.
-
-Special thanks to:
-- Shaheer Shaik sir  
-- Manohar Chary .V sir  
-- Yasoda Sreeram Kalluri sir  
-- Raghu Ram Aduri sir  
-- Sigilipelli Yeshwanth sir  
-- Eswarkarthic M sir  
-- Kanav Bansal sir  
-- Vishwanath Nyathani sir & Kalpana Katiki Reddy madam  
-
----
-
-## 📎 Connect With Us
-
-Feel free to explore, share feedback, or contribute!
-
-`#EDA` `#Python` `#WebScraping` `#DataScienceProjects` `#HyderabadRestaurants` `#Innomatics`
